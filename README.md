@@ -13,7 +13,7 @@ Introduction to Networking - https://courses.edx.org/certificates/dfdf8c45b2f040
 Coursera :-
 -----------
 
-Discrete Mathematic - https://www.coursera.org/account/accomplishments/verify/T3ZMNXZ84SJ6
+Discrete Mathematics - https://www.coursera.org/account/accomplishments/verify/T3ZMNXZ84SJ6
 
 Parallel Programming in Java - https://www.coursera.org/account/accomplishments/verify/YBYYLRBM7BFH
 
