@@ -17,6 +17,8 @@ Discrete Mathematics - https://www.coursera.org/account/accomplishments/verify/T
 
 Parallel Programming in Java - https://www.coursera.org/account/accomplishments/verify/YBYYLRBM7BFH
 
+I have completed, but did not receive a certificate for *Computer Architecture* by Dr. David Wentzlaff from Princeton University - (/Coursera/Saikumar Yadugiri - Computer Architecture - Coursera.jpg)
+
 Machine Learning - https://www.coursera.org/account/accomplishments/verify/W3HCLHFQGW94
 
 Convolutional Neural Networks - https://www.coursera.org/account/accomplishments/verify/B5RJH433PFHL
