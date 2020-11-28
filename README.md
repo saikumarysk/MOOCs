@@ -23,4 +23,4 @@ Convolutional Neural Networks - https://www.coursera.org/account/accomplishments
 
 Neural Networks and Deep Learning - https://www.coursera.org/account/accomplishments/verify/8398WVMDTRXK
 
-I have completed, but did not receive a certificate for **Computer Architecture** by Dr. David Wentzlaff from Princeton University. You can find the screen capture in the Coursera folder
+I have completed the course **Computer Architecture** by Dr. David Wentzlaff from Princeton University. You can find the completion details in the Coursera folder
