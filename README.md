@@ -23,4 +23,6 @@ Convolutional Neural Networks - https://www.coursera.org/account/accomplishments
 
 Neural Networks and Deep Learning - https://www.coursera.org/account/accomplishments/verify/8398WVMDTRXK
 
+Proactive Computer Security - https://www.coursera.org/account/accomplishments/certificate/MQCZAHCNX83X
+
 I have completed the course **Computer Architecture** by Dr. David Wentzlaff from Princeton University. You can find the completion details in the Coursera folder
